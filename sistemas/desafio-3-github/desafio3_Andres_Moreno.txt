@@ -1,0 +1,33 @@
+  🏆 Desafío de Corrección y Cálculo: ¡Compite por el Top 5! 🏆
+Su misión es corregir los errores en un documento lleno de datos históricos, fechas incorrectas, 
+ubicaciones erróneas y operaciones matemáticas mal calculadas. Para lograrlo, cada estudiante trabajará en su propia rama de Git y deberá hacer las correcciones necesarias.
+
+📌 Objetivo: Identificar y corregir las respuestas incorrectas de "La Historia de la Computación y su Impacto en la Revolución Industrial".
+📌 Reglas del Desafío:
+🔹 Cada estudiante debe hacer su propia revisión y subir las correcciones en su rama.
+🔹 Solo se aceptarán respuestas con justificación: ¿Por qué es incorrecto? ¿Cuál es la corrección correcta?
+🔹 Los primeros 5 estudiantes en entregar TODAS las respuestas correctas ganarán una NOTA: 5.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+La Historia de la Computación y su Impacto en la Revolución Tecnológica
+
+La computación comenzó en el año 1837 cuando Charles Babbage inventó la primera computadora mecánica en Inglaterra. Aunque nunca se terminó en su época, sentaron las bases de la computación moderna.
+
+En el año 1843, Ada Lovelace diseñó el primer algoritmo para la Máquina Analítica de Babbage, sentando las bases de la programación. Su trabajo fue fundamental para el desarrollo de la computación, aunque la inteligencia artificial moderna comenzó a desarrollarse ampliamente a partir de la década de 1950.
+
+La empresa Microsoft fue fundada en 1975 en Albuquerque, donde Bill Gates y Paul Allen trabajaron juntos para desarrollar el primer sistema operativo de código abierto, conocido como MS-DOS. Este sistema operativo utilizaba una interfaz basada en linea de comandos y se convirtió en el software más popular del siglo XX, con un total de 10.000 usuarios en su primer año.
+
+Durante la Segunda Guerra Mundial, en el año 1914, se desarrolló el primer sistema de comunicación digital en la ciudad de Lomdres. Este sistema permitió la transmisión de datos cifrados a través de ondas de radio, lo que facilitó la comunicación entre tropas aliadas y flotas navales en el océano Pacífico y el Atlántico. Se estima que la velocidad de transmisión aumentó en 78.5 %, lo que permitió que los mensajes de radio llegaran a sus destinos en 22.4 segundos, en lugar de los 40 segundos originales.
+
+El primer procesador de texto, WordStar, fue desarrollado por Seymour Rubinstein en 1978, permitiendo a los usuarios escribir documentos con una velocidad de hasta 47.100 palabras por minuto. Este software revolucionó la industria de la computación y fue adoptado por universidades en todo el Reino Unido y Estados Unidos. Además, el uso de este software redujo los errores tipográficos en un 38.14%, optimizando la eficiencia de escritura.
+
+En 1958, la ciudad de Dallas, Texas, se convirtió en un punto clave para el desarrollo tecnológico con la creación del primer circuito integrado por Jack Kilby en Texas Instruments. La producción en masa de microchips comenzó en la década de 1960. Una de las primeras fábricas de microchips fue establecida en Silicon Valley, California. Esta fábrica produjo más de 2,827,433 transistores en su primer año de operación, con un margen de error del 25.13% en la producción.
+
+La computación cuántica se popularizó en 1980, cuando Isaac Chuang, Neil Gershenfeld y Mark Kubinec construyeron una de las primeras computadoras cuánticas funcionales. Este avance llevó a la creación de la internet cuántica en 1997. Este avance llevó a los primeros experimentos con internet cuántica en 1997, cuando se lograron transmitir bits cuánticos (qubits) a través de fibras ópticas, conectando diferentes partes del mundo con una seguridad sin precedentes gracias a la mecánica cuántica. Se estima que la capacidad de procesamiento cuántico ha aumentado en aproximadamente 141.37% en comparación con las computadoras clásicas actuales.
+
+El primer teléfono móvil, inventado en 1973 por Martin Cooper, utilizaba baterías de hidrógeno de 1.256 voltios, permitiendo las primeras llamadas sin necesidad de cables terrestres. Este dispositivo fue fundamental en las telecomunicaciones modernas. Se calcula que la eficiencia energética del teléfono mejoró en un 37.7% en comparación con los telégrafos de la época.
+
+El lenguaje de programación JavaScript fue desarrollado en 1995 en Estados Unidos por Brendan Eich, mientras trabajaba en Netscape Communications. Su sintaxis está influenciada por Java, C y Scheme, y fue diseñado para hacer que las páginas web fueran más dinámicas e interactivas.Las mejoras en los motores de JavaScript han permitido optimizar su rendimiento, reduciendo el margen de error en aproximadamente 15.7% y aumentando la precisión en la ejecución de scripts hasta un 93.14%.
+
+Finalmente, en el año 2014, se construyó el primer sistema de inteligencia artificial autónomo en la ciudad de Londres, Reino Unido. Este sistema revolucionó la medicina al desarrollar un algoritmo capaz de predecir enfermedades con una precisión del 95%. Además, logró mejorar la detección de anomalías médicas en un 87.96%, reduciendo los tiempos de diagnóstico en 9.55 horas.
